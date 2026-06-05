@@ -103,6 +103,6 @@ a:hover{
 
 <h3> References </h3>
 <ul>
-  <li><a href="https://www.cisco.com/">Cisco - What is IoT (Internet of Things)</a></li>
-  <li><a href="https://www.ibm.com/us-en">IBM - What is IoT (Internet of Things)</a></li>
+  <li><a href="https://www.cisco.com/">Cisco - What is IoT (Internet of Things)?</a></li>
+  <li><a href="https://www.ibm.com/us-en">IBM - What is IoT (Internet of Things)?</a></li>
 </ul>

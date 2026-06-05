@@ -2,8 +2,8 @@
 
 <meta property="twitter:title" content="IOT (Internet of Things)">
 
-<body>
-<h3><definition>IOT (Internet of Things)</definition></h3>
+# IOT (Internet of Things)
+
 <ul>
   <li><strong>English (Source 1 - IBM):</strong> "The Internet of Things (IoT) refers to a network of physical devices, vehicles, appliances, and other physical objects that are embedded with sensors, software, and network connectivity, allowing them to collect and share data."</li>
   

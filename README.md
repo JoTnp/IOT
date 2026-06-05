@@ -2,8 +2,6 @@
 
 <meta property="twitter:title" content="IOT (Internet of Things)">
 
-# IOT (Internet of Things)
-
 <ul>
   <li><strong>English (Source 1 - IBM):</strong> "The Internet of Things (IoT) refers to a network of physical devices, vehicles, appliances, and other physical objects that are embedded with sensors, software, and network connectivity, allowing them to collect and share data."</li>
   
@@ -19,21 +17,25 @@
 <br>
   <li>องค์ประกอบสำคัญของระบบ IoT ประกอบด้วย
 <br>
-  1. Sensors ทำหน้าที่ตรวจจับข้อมูลจากสภาพแวดล้อม เช่น อุณหภูมิ ความชื้น หรือการเคลื่อนไหว<br>
-  2. Network ทำหน้าที่เชื่อมต่ออุปกรณ์เข้ากับอินเทอร์เน็ตผ่าน Wi-Fi, Bluetooth, 5G หรือเทคโนโลยีเครือข่ายอื่นๆ<br>
-  3. Cloud Computing ใช้เก็บและประมวลผลข้อมูลที่ได้รับจากอุปกรณ์<br>
-  4. Application เป็นส่วนที่ผู้ใช้งานสามารถเข้าถึงข้อมูลและควบคุมอุปกรณ์ผ่านคอมพิวเตอร์หรือสมาร์ตโฟน<br>
+&nbsp; 1. Sensors ทำหน้าที่ตรวจจับข้อมูลจากสภาพแวดล้อม เช่น อุณหภูมิ ความชื้น หรือการเคลื่อนไหว<br>
+&nbsp; 2. Network ทำหน้าที่เชื่อมต่ออุปกรณ์เข้ากับอินเทอร์เน็ตผ่าน Wi-Fi, Bluetooth, 5G หรือเทคโนโลยีเครือข่ายอื่นๆ<br>
+&nbsp; 3. Cloud Computing ใช้เก็บและประมวลผลข้อมูลที่ได้รับจากอุปกรณ์<br>
+&nbsp; 4. Application เป็นส่วนที่ผู้ใช้งานสามารถเข้าถึงข้อมูลและควบคุมอุปกรณ์ผ่านคอมพิวเตอร์หรือสมาร์ตโฟน<br>
 
   <li>ตัวอย่างการประยุกต์ใช้งาน IoT ได้แก่
 <br>
-  - บ้านอัจฉริยะ (Smart Home)<br>
-  - เมืองอัจฉริยะ (Smart City)<br>
-  - ระบบดูแลสุขภาพอัจฉริยะ (Smart Healthcare)<br>
-  - เกษตรอัจฉริยะ (Smart Farming)<br>
-  - โรงงานอุตสาหกรรมอัจฉริยะ (Industrial IoT)</li>
-<br>
+&nbsp; • บ้านอัจฉริยะ (Smart Home)<br>
+&nbsp; • เมืองอัจฉริยะ (Smart City)<br>
+&nbsp; • ระบบดูแลสุขภาพอัจฉริยะ (Smart Healthcare)<br>
+&nbsp; • เกษตรอัจฉริยะ (Smart Farming)<br>
+&nbsp; • โรงงานอุตสาหกรรมอัจฉริยะ (Industrial IoT)</li>
+
+---
+
   <li>"IoT เป็นเทคโนโลยีที่ช่วยให้อุปกรณ์ต่าง ๆ สามารถสื่อสารและแลกเปลี่ยนข้อมูลผ่านอินเทอร์เน็ตได้โดยอัตโนมัติ ทำให้เกิดระบบอัจฉริยะที่ช่วยเพิ่มประสิทธิภาพในการใช้ชีวิตและการทำงาน เช่น บ้านอัจฉริยะ เมืองอัจฉริยะ และโรงงานอัจฉริยะ", <strong>(ChatGPT)</strong></li>
   <li>"Internet of Things คือเครือข่ายของอุปกรณ์ที่เชื่อมต่อถึงกันผ่านอินเทอร์เน็ต สามารถเก็บข้อมูล วิเคราะห์ และตอบสนองต่อสถานการณ์ต่าง ๆ ได้แบบเรียลไทม์ ช่วยลดการทำงานซ้ำซ้อนของมนุษย์และเพิ่มความแม่นยำในการตัดสินใจ", <strong>(Copilot)</strong></li>
+
+---
 
 <h3 id="-2"><references></references></h3>
 <ul>
